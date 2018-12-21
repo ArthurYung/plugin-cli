@@ -1,0 +1,10 @@
+{
+    "script":{
+        "test": "jest"
+    },
+    "devDependencies":{
+        "jest": "^23.6.0",
+        "regenerator-runtime": "^0.13.1",
+        "babel-core": "^7.0.0-bridge.0"
+    }
+}

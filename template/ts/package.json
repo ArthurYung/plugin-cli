@@ -1,0 +1,33 @@
+{
+  "name": "rollup-tmp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cross-env NODE_ENV=ts ./node_modules/.bin/rollup -c ./build/rollup.config.js -w ",
+    "env-build": "cross-env NODE_ENV=ts ./node_modules/.bin/rollup -c ./build/rollup.config.js",
+    "build": "cross-env NODE_ENV=ts ./node_modules/.bin/rollup -c ./build/rollup.config.js & npm run env-build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-proposal-pipeline-operator": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "babel-plugin-transform-function-bind": "^6.22.0",
+    "cross-env": "^5.2.0",
+    "rollup": "^0.68.0",
+    "rollup-plugin-babel": "^4.1.0",
+    "rollup-plugin-fill-html": "^1.1.0",
+    "rollup-plugin-livereload": "^0.6.0",
+    "rollup-plugin-postcss": "^1.6.3",
+    "rollup-plugin-progress": "^0.4.0",
+    "rollup-plugin-serve": "^0.6.0",
+    "rollup-plugin-sourcemaps": "^0.4.2",
+    "rollup-plugin-uglify": "^6.0.0",
+    "rollup-plugin-typescript": "^1.0.0",
+    "rollup-plugin-clear": "^2.0.7",
+    "typescript": "^3.2.2"
+  }
+}

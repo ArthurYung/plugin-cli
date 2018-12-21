@@ -1,0 +1,26 @@
+{
+    "root": true,
+    "parser": "babel-eslint",
+    "parserOptions": {
+        "sourceType": "module"
+    },
+    "env": {
+        "browser": true
+    },
+    "globals":{
+        "console": true
+    },
+    "extends": ["eslint-config-standard"],
+    "rules": {
+        "indent": ["error", 4],
+        "eol-last": 0,
+        "comma-dangle": 0,
+        "no-var": 1,
+        "no-alert": 1,
+        "no-unused-vars":  1,
+        "no-debugger": 1,
+        "no-console": [1, {
+            "allow": ["info", "warn", "error"]
+        }]
+    }
+}
