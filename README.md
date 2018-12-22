@@ -31,7 +31,7 @@ $ plugin app
 # serve with hot reload at localhost:10001
 npm run dev
 
-# build for production with minification
+# build your project with minification
 npm run build
 
 
