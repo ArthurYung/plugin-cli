@@ -28,7 +28,8 @@ $ plugin app
 ```
 ![Aaron Swartz](https://t1.picb.cc/uploads/2018/12/22/JDC8Rr.gif)  
 
-It will create a directory called `app` inside the current folder.    
+It will create a directory called `app` inside the current folder.
+and generate the initial project structure
    
 ```
 app
@@ -55,11 +56,11 @@ serve with hot reload at localhost:10001
     
 ### `npm build` or `yarn build`  
     
-build your project with minification    
+build your project with minification.    
    
 ### `npm test` or `yarn test`  
     
-running tests with jest  
+Runs the jest test runner on your tests.  
    
    
 # License
