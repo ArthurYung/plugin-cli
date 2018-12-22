@@ -33,7 +33,7 @@ npm run dev
 
 # build your project with minification
 npm run build
-
+```
 
 # License
 [MIT](http://opensource.org/licenses/MIT)
