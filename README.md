@@ -7,7 +7,10 @@
 * jest
 * server-hot
 
+
+
 # 下载/安装
+[Aaron Swartz](https://t1.picb.cc/uploads/2018/12/22/JDCw3G.jpg)
 `$ git clone https://github.com/ChuckOu/rollup-all.git rollup-cli && cd rollup-cli && npm link`  
 
 or  
