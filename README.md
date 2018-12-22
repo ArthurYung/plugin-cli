@@ -28,7 +28,7 @@ $ plugin app
 ```
 ![Aaron Swartz](https://t1.picb.cc/uploads/2018/12/22/JDC8Rr.gif)  
 
-It will create a directory called `my-app` inside the current folder.    
+It will create a directory called `app` inside the current folder.    
    
 ```
 app
