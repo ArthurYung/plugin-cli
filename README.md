@@ -24,15 +24,15 @@ or
 You can select preset which you need. 
 
 ``` bash
-$ plugin app
+$ plugin apps
 ```
 ![Aaron Swartz](https://t1.picb.cc/uploads/2018/12/22/JDC8Rr.gif)  
 
-It will create a directory called `app` inside the current folder.   
+It will create a directory called `apps` inside the current folder.   
 and generate the initial project structure.
    
 ```
-app
+apps
 ├── README.md
 ├── node_modules
 ├── package.json
