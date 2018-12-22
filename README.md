@@ -8,8 +8,8 @@
 * server-hot
 
 # 下载/安装
-`$ git clone https://github.com/ChuckOu/rollup-all.git rollup-cli && cd rollup-cli && npm link`
-or
+`$ git clone https://github.com/ChuckOu/rollup-all.git rollup-cli && cd rollup-cli && npm link`  
+or  
 `$ npm install plugin-cli -g`
 
 # 使用
