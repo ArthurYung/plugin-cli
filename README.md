@@ -15,7 +15,7 @@ or
 `$ npm install plugin-cli -g`
 
 # 使用
-`$ plugin app -t(可选)`
+`$ plugin app`
 
 # License
 [MIT](http://opensource.org/licenses/MIT)
