@@ -28,8 +28,8 @@ $ plugin app
 ```
 ![Aaron Swartz](https://t1.picb.cc/uploads/2018/12/22/JDC8Rr.gif)  
 
-It will create a directory called `app` inside the current folder.
-and generate the initial project structure
+It will create a directory called `app` inside the current folder.   
+and generate the initial project structure.
    
 ```
 app
