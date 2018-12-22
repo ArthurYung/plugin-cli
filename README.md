@@ -19,6 +19,7 @@ or
 `$ npm install plugin-cli -g`
 
 # 使用
+![Aaron Swartz](https://t1.picb.cc/uploads/2018/12/22/JDC5OF.gif)  
 `$ plugin app`
 
 # License
