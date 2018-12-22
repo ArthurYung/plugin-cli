@@ -54,7 +54,7 @@ apps
    
 serve with hot reload at localhost:10001  
     
-### `npm build` or `yarn build`  
+### `npm run build` or `yarn build`  
     
 build your project with minification.    
    
