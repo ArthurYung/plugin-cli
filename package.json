@@ -9,8 +9,13 @@
   "bin": {
     "plugin": "bin/plugin.js"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "rollup",
+    "cli",
+    "plugin"
+  ],
+  "author": "Arthur Ou",
+  "license": "MIT",
   "devDependencies": {
     "commander": "^2.19.0",
     "inquirer": "^6.2.1",
@@ -19,5 +24,13 @@
   },
   "dependencies": {
     "chalk": "^2.4.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChuckOu/plugin-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChuckOu/plugin-cli/issues"
+  },
+  "homepage": "https://github.com/ChuckOu/plugin-cli#readme"
 }
