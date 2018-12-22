@@ -21,7 +21,7 @@ or
 ## Use it
 ![Aaron Swartz](https://t1.picb.cc/uploads/2018/12/22/JDC8Rr.gif)  
 ``` bash
-plugin app
+$ plugin app
 ```
 
 ## Build Setup
@@ -34,8 +34,6 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 
 # License
 [MIT](http://opensource.org/licenses/MIT)
