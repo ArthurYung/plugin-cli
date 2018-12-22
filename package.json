@@ -1,7 +1,7 @@
 {
   "name": "plugin-cli",
   "version": "1.0.5",
-  "description": "",
+  "description": "A Rollup CLI for create template with developing plugins",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
