@@ -13,12 +13,12 @@ const argsLen = program.args.length;
 
 if (argsLen === 0) {
     program.help();
-} else if (argsLen === 1) {
+} else if (argsLen <= 2) {
 if (fs.existsSync(program.args[0])) {
     console.log(chalk.bgRed('This name is already exists!'));
     process.exit();
 }
-init(program.args[0]);
+init(program.args[0], program.args[1] === 'tc');
 } else {
     console.log(chalk.bgRed('Project name invalid!'));
 }
