@@ -1,6 +1,6 @@
 # plugin-cli
 
-一款专注于用于开发插件/库的rollup脚手架
+A Rollup CLI for create template with developing plugins
 
 * TypeScirpt/Babel 7.0
 * TS-lint/ES-lint
@@ -9,18 +9,33 @@
 
 
 
-# 下载/安装
+## Install
 ![Aaron Swartz](https://t1.picb.cc/uploads/2018/12/22/JDCw3G.jpg)  
 
-`$ git clone https://github.com/ChuckOu/rollup-all.git rollup-cli && cd rollup-cli && npm link`  
+`$ npm install plugin-cli -g`  
 
 or  
 
-`$ npm install plugin-cli -g`
+`$ yarn global add plugin-cli`
 
-# 使用
+## Use it
 ![Aaron Swartz](https://t1.picb.cc/uploads/2018/12/22/JDC8Rr.gif)  
-`$ plugin app`
+``` bash
+plugin app
+```
+
+## Build Setup
+
+``` bash
+
+# serve with hot reload at localhost:10001
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
 
 # License
 [MIT](http://opensource.org/licenses/MIT)
