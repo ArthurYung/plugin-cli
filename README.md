@@ -1,7 +1,5 @@
-# plugin-cli   
-<a href="https://npmjs.com/package/fre"><img src="https://img.shields.io/npm/v/plugin-cli.svg?style=flat-square" alt="npm-v"></a>
-<a href="https://npmjs.com/package/fre"><img src="https://img.shields.io/npm/dm/plugin-cli.svg?style=flat-square" alt="npm-d"></a>
-
+# plugin-cli[![NPM](https://img.shields.io/npm/v/plugin-cli.svg?style=flat-square)](https://npmjs.com/package/plugin-cli)![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
+   
 A Rollup CLI for create template with developing plugins.   
 
 
