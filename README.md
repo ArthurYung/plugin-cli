@@ -6,7 +6,7 @@ A Rollup CLI for create template with developing plugins.
 * TS-lint/ES-lint
 * jest
 * server-hot
-
+* postcss
 
 
 ## Installation
