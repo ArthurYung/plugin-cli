@@ -21,7 +21,7 @@ or
 ## Creating an project
 
 ### Create <name>
-Try to use `-`, and you can select preset which you need. 
+You can select preset which you need. 
 
 ``` bash
 $ plugin apps
