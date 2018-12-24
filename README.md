@@ -1,7 +1,8 @@
-# plugin-cli<a href="https://npmjs.com/package/fre"><img src="https://img.shields.io/npm/v/plugin-cli.svg?style=flat-square" alt="npm-v"></a>
-<a href="https://npmjs.com/package/fre"><img src="https://img.shields.io/npm/dm/plugin-cli.svg?style=flat-square" alt="npm-d"></a>
+# plugin-cli   
 
-A Rollup CLI for create template with developing plugins.
+A Rollup CLI for create template with developing plugins.   
+<a href="https://npmjs.com/package/fre"><img src="https://img.shields.io/npm/v/plugin-cli.svg?style=flat-square" alt="npm-v"></a>
+<a href="https://npmjs.com/package/fre"><img src="https://img.shields.io/npm/dm/plugin-cli.svg?style=flat-square" alt="npm-d"></a>
 
 * TypeScirpt/Babel 7.0
 * TS-lint/ES-lint
