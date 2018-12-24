@@ -4,9 +4,9 @@ A Rollup CLI for create template with developing plugins.
 
 * TypeScirpt/Babel 7.0
 * TS-lint/ES-lint
-* jest
 * server-hot
 * postcss
+* ?jest
 
 
 ## Installation
