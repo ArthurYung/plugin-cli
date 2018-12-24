@@ -21,8 +21,9 @@ or
 ## Creating an project
 
 ### Create <name>
-Try to use `-`, and you can select preset which you need. 
-
+You can select preset which you need. 
+and replace '-' in project name with Camel-Case when it exists.
+   
 ``` bash
 $ plugin apps
 ```
@@ -38,10 +39,11 @@ apps
 ├── package.json
 ├── .gitignore
 ├── build
-│   ├── name.js
-│   ├── rollup.plugin.js
-│   ├── rollup.dev.js
-│   └── rollup.config.js
+│   ├── name.js 
+│   ├── plugins.js 
+│   ├── config.base.js 
+│   ├── config.build.js 
+│   └── config.env.js
 ├── public
 │   ├── favicon.ico
 │   └── index.html
