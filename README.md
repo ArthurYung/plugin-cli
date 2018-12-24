@@ -38,10 +38,11 @@ apps
 ├── package.json
 ├── .gitignore
 ├── build
-│   ├── name.js
-│   ├── rollup.plugin.js
-│   ├── rollup.dev.js
-│   └── rollup.config.js
+│   ├── name.js // replace '-' in project name with Camel-Case
+│   ├── plugins.js // user preset
+│   ├── config.base.js // config base
+│   ├── config.build.js 
+│   └── config.env.js
 ├── public
 │   ├── favicon.ico
 │   └── index.html
