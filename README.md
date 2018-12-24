@@ -22,7 +22,8 @@ or
 
 ### Create <name>
 You can select preset which you need. 
-
+and replace '-' in project name with Camel-Case when it exists.
+   
 ``` bash
 $ plugin apps
 ```
@@ -38,9 +39,9 @@ apps
 ├── package.json
 ├── .gitignore
 ├── build
-│   ├── name.js // replace '-' in project name with Camel-Case
-│   ├── plugins.js // user preset
-│   ├── config.base.js // config base
+│   ├── name.js 
+│   ├── plugins.js 
+│   ├── config.base.js 
 │   ├── config.build.js 
 │   └── config.env.js
 ├── public
