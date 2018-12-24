@@ -1,4 +1,4 @@
 {
-    "presets": [ "@babel/preset-env" ],
-    "plugins": ["transform-function-bind",["@babel/plugin-proposal-pipeline-operator", { "proposal": "minimal" }]]
+  "presets": [ "@babel/preset-env" ],
+  "plugins": ["transform-function-bind",["@babel/plugin-proposal-pipeline-operator", { "proposal": "minimal" }]]
 }

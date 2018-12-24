@@ -1,6 +1,6 @@
 {
-    "devDependencies":{
-        "tslint-config-standard": "^8.0.1",
-        "rollup-plugin-tslint": "^0.1.38"
-    }
+  "devDependencies": {
+    "tslint-config-standard": "^8.0.1",
+    "rollup-plugin-tslint": "^0.1.38"
+  }
 }

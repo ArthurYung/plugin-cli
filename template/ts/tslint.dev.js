@@ -4,9 +4,9 @@ import typescript from 'rollup-plugin-typescript'
 import tslint from 'rollup-plugin-tslint'
 
 export default [
-    tslint(),
-    typescript(),
-    postcss({
-        extract : `dist/css/${name}.css`
-    })
+  tslint(),
+  typescript(),
+  postcss({
+    extract: `dist/css/${name}.css`
+  })
 ]
