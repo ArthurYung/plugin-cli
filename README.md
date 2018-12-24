@@ -1,4 +1,4 @@
-# Plugin-CLI [![npm version](https://badge.fury.io/js/plugin-cli.svg)](https://badge.fury.io/js/plugin-cli) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
+# Plugin-CLI [![npm version](https://badge.fury.io/js/plugin-cli.svg)](https://badge.fury.io/js/plugin-cli) [![](/bower/l/:plugin-cli.svg)](https://opensource.org/licenses/MIT)
    
 A Rollup CLI for create template with developing plugins.   
 
